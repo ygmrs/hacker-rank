@@ -26,10 +26,6 @@
 Each solution is written to be readable rather than golfed: clear variable
 names, an explicit approach, and the complexity noted where it isn't obvious.
 
-## Languages
-
-Java, JavaScript, Python.
-
 ## Layout
 
 Solutions are grouped by problem domain — introduction, strings, data
