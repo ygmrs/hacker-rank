@@ -1,3 +1,0 @@
-License
-Yagmur SAHIN
-
